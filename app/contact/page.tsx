@@ -3,12 +3,12 @@ import WhatsAppFab from '../components/WhatsAppFab';
 const businessInfo = [
   {
     label: 'Phone Number 1',
-    value: '+250 000 000 000',
+    value: '+250 780 896 008',
     detail: 'For immediate assistance',
   },
   {
     label: 'Phone Number 2',
-    value: '+250 000 000 001',
+    value: '+250 780 896 008',
     detail: 'Support and orders',
   },
   {
@@ -74,7 +74,7 @@ export default function ContactPage() {
 
               <div className="mt-2 flex flex-wrap gap-3">
                 <a
-                  href="https://wa.me/250000000000"
+                  href="https://wa.me/250780896008"
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex items-center gap-2 rounded-full px-5 py-3 text-sm font-semibold text-white transition hover:opacity-90"
@@ -86,7 +86,7 @@ export default function ContactPage() {
                   WhatsApp
                 </a>
                 <a
-                  href="tel:+250000000000"
+                  href="tel:+250780896008"
                   className="inline-flex items-center gap-2 rounded-full border px-5 py-3 text-sm font-semibold transition hover:bg-[#f6f1e8]"
                   style={{ borderColor: '#D9C8A5', color: '#1F2430' }}
                 >

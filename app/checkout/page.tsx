@@ -55,8 +55,9 @@ function CheckoutPageContent() {
       return;
     }
 
+    const phoneNumber = '250780896008';
     const message = `Hi, I'd like to order:\n\nProduct: ${product.name}\nQuantity: ${quantity}\nLocation: ${place}\nTotal: ${totalPrice.toLocaleString()} RWF\n\nThank you!`;
-    const whatsappUrl = `https://wa.me/?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
   };
 
