@@ -1,36 +1,99 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Website Brief – Restaurant & Bakery Business (Rogerz Baked)
 
-## Getting Started
+We are building a modern website for a restaurant and bakery business that offers fresh baked goods, pastries, snacks, and custom cakes. The website should present our products professionally, allow customers to place orders for delivery, and make it easy for customers to contact us.
 
-First, run the development server:
+Business Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Our business specializes in fresh bakery products, pastries, snacks, and custom cakes for individuals, families, events, and businesses. We provide high-quality products made fresh every day, with reliable delivery services to our customers.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The website should have a clean, modern, mobile-friendly design with attractive food images, easy navigation, and a simple ordering process.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Main Website Sections
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Home
+- Bakery Products
+- Pastry Products [cakes]
+- Snacks
+- Delivery Information
+- Contact & About us
 
-## Learn More
+Bakery Products
 
-To learn more about Next.js, take a look at the following resources:
+Display the following bakery products:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Sweet Bread (Pain Carré – Sweet)
+2. Sweet Sandwich Bread
+3. Sweet Round Bread
+4. Pain Français (French Bread)
+5. Brown Bread
+6. Salt Bread
+7. White Baguette
+8. Farmer's Bread
+9. Cinnamon Sandwich Bread
+10. Brioche Bread
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Pastry Products
 
-## Deploy on Vercel
+Display the following pastry products:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Wedding Cake
+2. Marriage Cake
+3. Cake Slices (All Types)
+4. Tangerine Cake
+5. Lemon Cake
+6. Passion Fruit Cake
+7. Muffin Cake
+8. Raisin Muffin Cake
+9. Croissants (All Types)
+10. Chocolate Croissant
+11. Cupcakes
+12. Vanilla Cake
+13. Marble Cake
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Snacks
+
+Display the following snack products:
+
+1. Caramot
+2. Beef Samosa
+3. Croquette
+4. Meat Balls
+5. Big Donuts
+6. Rolex
+7. Omelette
+8. Kebab
+9. Pancakes
+
+Delivery
+
+The business offers delivery services. Customers should be able to order on Whatsapp and have their products delivered to their preferred location. Delivery information should clearly explain the ordering process and available delivery areas.
+
+Contact Section
+
+Create a professional contact page with placeholders for:
+
+- Phone Number 1
+- Phone Number 2
+- Email Address
+- Physical Address
+- Business Hours
+- Contact Form
+
+We will provide the phone numbers, email address, physical address, and business hours later.
+
+Website Features
+
+- Responsive design for mobile, tablet, and desktop.
+- Professional food photography throughout the website.
+- Easy-to-browse product categories.
+- Product cards with image, name, price, and an Order Now button.
+- Search functionality.
+- Delivery request option.
+- WhatsApp contact button.
+- Google Maps integration (using our address once provided later).
+- Customer testimonials.
+- Social media links.
+- Fast-loading pages.
+- Modern and elegant bakery-inspired color palette.
+
+The goal is to create a professional website that showcases our bakery and restaurant products, encourages online orders, and makes it easy for customers to contact us and request delivery.
