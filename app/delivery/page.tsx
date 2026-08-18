@@ -42,7 +42,7 @@ const deliveryInfo = [
   },
   {
     label: 'Delivery Time',
-    value: 'Under 30 mins or You wish',
+    value: 'Under 30 mins',
     detail: 'Depending on order time and location',
   },
   {
