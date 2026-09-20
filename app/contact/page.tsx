@@ -18,7 +18,7 @@ const businessInfo = [
   },
   {
     label: 'Physical Address',
-    value: 'Kigali, Rwanda',
+    value: 'Rubavu, Rwanda',
     detail: 'Visit our bakery shop',
   },
 ];

@@ -16,10 +16,10 @@ export const snacksProducts: SnackProduct[] = [
   },
   {
     id: 2,
-    name: 'Croquette',
-    description: 'Golden, crunchy croquette made with rich filling and a comforting, savory taste.',
+    name: 'Gozette',
+    description: 'Golden, crunchy gozette made with rich filling and a comforting, savory taste.',
     price: 2800,
-    imagePath: '/products-images/snacks/croquette.jpg',
+    imagePath: '/products-images/snacks/gozette.jpg',
   },
   {
     id: 3,
