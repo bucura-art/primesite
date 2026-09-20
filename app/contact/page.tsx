@@ -48,7 +48,7 @@ export default function ContactPage() {
             </div>
 
             <div className="space-y-4">
-              <div className="rounded-2xl border border-[#e7d8c1] bg-[#f8f2e8] p-5">
+              {/*<div className="rounded-2xl border border-[#e7d8c1] bg-[#f8f2e8] p-5">
                 <p className="text-xs font-semibold uppercase tracking-[0.2em]" style={{ color: '#0000D0' }}>
                   Custom Order
                 </p>
@@ -58,9 +58,9 @@ export default function ContactPage() {
                 <p className="mt-2 text-sm leading-6 text-[#4D4D4D]">
                   Tell us your idea and we’ll help craft the perfect cake for your celebration.
                 </p>
-              </div>
+              </div>*/}
 
-              <div className="rounded-2xl border border-[#e7d8c1] bg-[#f8f2e8] p-5">
+              {/*<div className="rounded-2xl border border-[#e7d8c1] bg-[#f8f2e8] p-5">
                 <p className="text-xs font-semibold uppercase tracking-[0.2em]" style={{ color: '#0000D0' }}>
                   Request Delivery
                 </p>
@@ -70,7 +70,7 @@ export default function ContactPage() {
                 <p className="mt-2 text-sm leading-6 text-[#4D4D4D]">
                   Order on WhatsApp and we’ll handle your delivery request quickly and efficiently.
                 </p>
-              </div>
+              </div>*/}
 
               <div className="mt-2 flex flex-wrap gap-3">
                 <a
