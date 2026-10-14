@@ -22,11 +22,11 @@ export default function SiteNav() {
     <nav className="sticky top-0 z-50 bg-white shadow-md" style={{ backgroundColor: '#FFFDF9', borderBottom: '1px solid #E8E2D9' }}>
       <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between gap-2 md:gap-4">
         {/* Logo/Title - Left */}
-        <Link href="/" className="flex items-center gap-3 flex-shrink-0" aria-label="Rogerz Baked home">
+        <Link href="/" className="flex items-center gap-3 flex-shrink-0" aria-label="I-loaves home">
           <div className="relative flex items-center justify-center overflow-hidden shadow-sm">
             <Image
-              src="/rb-logo.png"
-              alt="Rogerz Baked logo"
+              src="/il-logo.png"
+              alt="I-loaves logo"
               width={40}
               height={40}
               className="object-fill"

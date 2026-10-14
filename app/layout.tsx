@@ -16,20 +16,20 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Rogerz Baked | Fresh Bakery, Cakes & Snacks",
+  title: "I-loaves | Fresh Bakery, Cakes & Snacks",
   description:
-    "Fresh bakery products, pastries, snacks, and custom cakes delivered to your door. Explore bakery favourites, event cakes, and everyday baked goods at Rogerz Baked.",
+    "Fresh bakery products, pastries, snacks, and custom cakes delivered to your door. Explore bakery favourites, event cakes, and everyday baked goods at I-loaves.",
   keywords: [
     "bakery",
     "fresh bread",
     "cakes Rwanda",
     "snacks delivery",
     "custom cakes",
-    "Rogerz Baked",
+    "I-loaves",
     "bakery in Kigali",
   ],
   openGraph: {
-    title: "Rogerz Baked | Fresh Bakery, Cakes & Snacks",
+    title: "I-loaves | Fresh Bakery, Cakes & Snacks",
     description:
       "Fresh bakery products, pastries, snacks, and custom cakes delivered to your door. Explore bakery favourites, event cakes, and everyday baked goods.",
     type: "website",
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     canonical: "/",
   },
   icons: {
-    icon: "/rb-logo.png",
+    icon: "/il-logo.png",
   },
 };
 

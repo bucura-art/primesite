@@ -1,4 +1,4 @@
-Website Brief – Restaurant & Bakery Business (Rogerz Baked)
+Website Brief – Restaurant & Bakery Business (I-Loaves)
 
 We are building a modern website for a restaurant and bakery business that offers fresh baked goods, pastries, snacks, and custom cakes. The website should present our products professionally, allow customers to place orders for delivery, and make it easy for customers to contact us.
 
