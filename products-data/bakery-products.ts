@@ -32,7 +32,7 @@ export const bakeryProducts: BakeryProduct[] = [
     id: 4,
     name: 'Pain Français (French Bread)',
     description: 'Authentic French bread with a crispy exterior and a light, airy interior. A classic favorite.',
-    price: 3250,
+    price: 1000,
     imagePath: '/products-images/bakery/pain-francais.jpg',
   },
   {
@@ -46,21 +46,21 @@ export const bakeryProducts: BakeryProduct[] = [
     id: 6,
     name: 'Salt Bread',
     description: 'Savory bread with a perfect salt balance. Ideal for soups, stews, or enjoying on its own.',
-    price: 2500,
+    price: 2000,
     imagePath: '/products-images/bakery/salt-bread.jpg',
   },
   {
     id: 7,
     name: 'White Baguette',
     description: 'Classic French-style white baguette with a crispy crust and soft, pillowy center.',
-    price: 3500,
+    price: 1000,
     imagePath: '/products-images/bakery/white-baguette.jpg',
   },
   {
     id: 8,
     name: 'Farmer\'s Bread',
     description: 'Rustic farmhouse bread with a hearty flavor and wholesome ingredients.',
-    price: 3750,
+    price: 2500,
     imagePath: '/products-images/bakery/farmers-bread.jpg',
   },
   {
@@ -74,7 +74,7 @@ export const bakeryProducts: BakeryProduct[] = [
     id: 10,
     name: 'Brioche Bread',
     description: 'Rich and buttery brioche bread with a golden crust. Luxurious and perfect for special occasions.',
-    price: 4000,
+    price: 2000,
     imagePath: '/products-images/bakery/brioche-bread.jpg',
   },
 ];
