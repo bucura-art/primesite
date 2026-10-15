@@ -13,7 +13,7 @@ const businessInfo = [
   },
   {
     label: 'Email Address',
-    value: 'hello@rogerzbaked.com',
+    value: 'rogersizabayo05@gmail.com',
     detail: 'We reply promptly',
   },
   {
@@ -24,9 +24,9 @@ const businessInfo = [
 ];
 
 const businessHours = [
-  { day: 'Monday - Friday', time: '8:00 AM - 8:00 PM' },
-  { day: 'Saturday', time: '9:00 AM - 8:00 PM' },
-  { day: 'Sunday', time: '10:00 AM - 4:00 PM' },
+  { day: 'Monday - Friday', time: '8:00 AM - 00:00 PM' },
+  { day: 'Saturday', time: '8:00 AM - 00:00 PM' },
+  { day: 'Sunday', time: '8:00 AM - 00:00 PM' },
 ];
 
 const socials = [

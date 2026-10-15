@@ -37,12 +37,12 @@ const paymentOptions = [
 const deliveryInfo = [
   {
     label: 'Delivery Areas',
-    value: 'Kigali & Surrounding',
-    detail: 'We deliver within Kigali and nearby areas',
+    value: 'Rubavu & Surrounding',
+    detail: 'We deliver within Rubavu and nearby areas',
   },
   {
     label: 'Delivery Time',
-    value: 'Under 30 mins',
+    value: 'Under 20 mins',
     detail: 'Depending on order time and location',
   },
   {
@@ -203,7 +203,7 @@ export default function DeliveryPage() {
                 How long does delivery take?
               </h3>
               <p className="mt-2 text-[#4D4D4D]">
-                We offer same-day or next-day delivery depending on when you place your order and your location within Kigali.
+                We offer same-day or next-day delivery depending on when you place your order and your location within Rubavu.
               </p>
             </div>
 
