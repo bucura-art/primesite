@@ -11,15 +11,15 @@ export const cakeProducts: CakeProduct[] = [
     id: 1,
     name: 'Wedding Cake',
     description: 'Elegant and celebratory wedding cake with a soft, moist crumb and rich flavor designed for unforgettable occasions.',
-    price: 25000,
+    price: 300000,
     imagePath: '/products-images/cakes/wedding-cake.jpg',
   },
   {
     id: 2,
-    name: 'Celebration Cake',
-    description: 'Classic celebration cake with a balanced sweetness and smooth texture, perfect for special gatherings and family events.',
+    name: 'Anniversary Cake',
+    description: 'Classic anniversary cake with a balanced sweetness and smooth texture, perfect for special gatherings and family events.',
     price: 10000,
-    imagePath: '/products-images/cakes/celebration-cake.jpg',
+    imagePath: '/products-images/cakes/anniversary-cake.jpg',
   },
   {
     id: 3,
@@ -57,20 +57,6 @@ export const cakeProducts: CakeProduct[] = [
     imagePath: '/products-images/cakes/muffin-cake.jpg',
   },
   {
-    id: 9,
-    name: 'Croissants (All Types)',
-    description: 'Buttery, flaky croissants made fresh daily, available in a range of delicious varieties for every craving.',
-    price: 1200,
-    imagePath: '/products-images/cakes/croissants.jpg',
-  },
-  {
-    id: 10,
-    name: 'Chocolate Croissant',
-    description: 'Golden, flaky pastry filled with rich chocolate for a deeply satisfying treat at any time of day.',
-    price: 12000,
-    imagePath: '/products-images/cakes/chocolate-croissants.jpg',
-  },
-  {
     id: 11,
     name: 'Cupcakes',
     description: 'Individually portioned cupcakes with a soft crumb and a sweet finish, perfect for parties and family snacking.',
@@ -83,12 +69,5 @@ export const cakeProducts: CakeProduct[] = [
     description: 'Classic vanilla cake with a smooth taste and soft, fluffy texture that remains a timeless favorite.',
     price: 1500,
     imagePath: '/products-images/cakes/vanilla-cake.jpg',
-  },
-  {
-    id: 13,
-    name: 'Marble Cake',
-    description: 'Beautifully marbled cake with a rich blend of vanilla and chocolate flavors in a perfectly moist crumb.',
-    price: 2000,
-    imagePath: '/products-images/cakes/marble-cake.jpg',
   },
 ];

@@ -58,9 +58,23 @@ export const snacksProducts: SnackProduct[] = [
   },
   {
     id: 8,
-    name: 'Pancakes',
-    description: 'Soft, warm pancakes with a comforting flavor, ideal for breakfast, dessert, or a sweet snack.',
+    name: 'Creppe',
+    description: 'Soft, warm crepes with a comforting flavor, ideal for breakfast, dessert, or a sweet snack.',
     price: 500,
-    imagePath: '/products-images/snacks/pancakes.jpg',
+    imagePath: '/products-images/snacks/creppe.jpg',
+  },
+  {
+    id: 9,
+    name: 'Croissants (All Types)',
+    description: 'Buttery, flaky croissants made fresh daily, available in a range of delicious varieties for every craving.',
+    price: 1200,
+    imagePath: '/products-images/cakes/croissants.jpg',
+  },
+  {
+    id: 10,
+    name: 'Chocolate Croissant',
+    description: 'Golden, flaky pastry filled with rich chocolate for a deeply satisfying treat at any time of day.',
+    price: 12000,
+    imagePath: '/products-images/cakes/chocolate-croissants.jpg',
   },
 ];

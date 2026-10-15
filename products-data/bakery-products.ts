@@ -16,24 +16,24 @@ export const bakeryProducts: BakeryProduct[] = [
   },
   {
     id: 2,
-    name: 'Sweet Sandwich Bread',
+    name: 'White roll',
     description: 'Lightly sweetened sandwich bread that\'s perfect for making delightful sandwiches with your favorite fillings.',
     price: 2000,
     imagePath: '/products-images/bakery/sweet-sandwich-bread.jpg',
   },
   {
     id: 3,
-    name: 'Sweet Round Bread',
+    name: 'Danish',
     description: 'Soft, round-shaped sweet bread with a golden crust and sweet flavor. Great for sharing.',
     price: 2000,
     imagePath: '/products-images/bakery/sweet-round-bread.jpg',
   },
   {
     id: 4,
-    name: 'Pain Français (French Bread)',
+    name: 'Oats bread',
     description: 'Authentic French bread with a crispy exterior and a light, airy interior. A classic favorite.',
     price: 1000,
-    imagePath: '/products-images/bakery/pain-francais.jpg',
+    imagePath: '/products-images/bakery/oats-bread.jpg',
   },
   {
     id: 5,
@@ -65,10 +65,10 @@ export const bakeryProducts: BakeryProduct[] = [
   },
   {
     id: 9,
-    name: 'Cinnamon Sandwich Bread',
-    description: 'Sweet sandwich bread infused with cinnamon spice. Perfect for sweet or savory sandwiches.',
+    name: 'Cinnamon danish',
+    description: 'Sweet danish pastry infused with cinnamon spice. Perfect for sweet or savory sandwiches.',
     price: 2000,
-    imagePath: '/products-images/bakery/cinnamon-sandwich-bread.jpg',
+    imagePath: '/products-images/bakery/cinnamon-danish.jpg',
   },
   {
     id: 10,
